@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Robert-octavo
+- 👋 Hi, I’m Robert Ortega
 - 👀 I’m interested in programming (c, python, javascript)
 - 🌱 I’m currently learning c
 - 💞️ I’m looking to collaborate on ...
