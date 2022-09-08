@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Robert Ortega
-- 👀 I’m interested in programming (c, python, javascript)
-- 🌱 I’m currently learning c
+- 👀 I’m interested in Web Development (Python, javascript)
+- 🌱 I’m currently learning Django and Flask
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
