@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Robert Ortega
-- 👀 I’m interested in Web Development (Python, javascript)
-- 🌱 I’m currently learning Django and Flask
+- 👀 I’m interested in Web Development (Python, Javascript, React), Data Bases (Mysql, MongoDb, Oracle)
+- 🌱 I’m currently learning React, Django and Flask
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
