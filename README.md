@@ -7,7 +7,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Robert-octavo&layout=compact&theme=radical&hide_border=flase&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <a href="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=robert-octavo&layout=compact&theme=radical">
-  <img height="180" width="400" align="right" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=robert-octavo&layout=compact&theme=radical" />
+  <img width="350" align="right" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=robert-octavo&layout=compact&theme=radical" />
 </a>
 <!---
 Robert-octavo/Robert-octavo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
