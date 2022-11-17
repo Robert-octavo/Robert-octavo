@@ -16,9 +16,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/robert_octavo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="robert_octavo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/robert-octavo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="robert-octavo" height="30" width="40" /></a>
-<a href="https://instagram.com/robert_octavo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="robert_octavo" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/robert_octavo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="robert_octavo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/robert-octavo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="robert-octavo" height="30" width="40" /></a>
+<a href="https://instagram.com/robert_octavo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="robert_octavo" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/robert_octavo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="robert_octavo" height="30" width="40" /></a>
 </p>
 <hr> 
 <h3 align="left">Languages and Tools:</h3>
