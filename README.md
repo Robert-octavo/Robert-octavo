@@ -9,7 +9,7 @@
 <hr>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=robert-octavo&theme=radical&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727)](https://git.io/streak-stats)
-<a href="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=robert-octavo&layout=compact&theme=radical">
+<a href="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=robert-octavo&layout=compact&theme=radical&langs_count=6">
   <img width="330" align="right" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=robert-octavo&layout=compact&theme=radical" />
 </a>
 <hr>
