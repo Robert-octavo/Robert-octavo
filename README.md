@@ -4,7 +4,7 @@
 - 👋 Hi, I’m Robert Ortega
 - 👀 I’m interested in Web Development (Python, Javascript, React), Data Bases (Mysql, MongoDB, Oracle)
 - 🌱 I’m currently learning React, Django and Flask
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me at at robert.ortega.octavo@gmail.com
 <hr>
 
