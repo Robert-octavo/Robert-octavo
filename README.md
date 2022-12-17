@@ -6,7 +6,7 @@
 - 📫 How to reach me at at robert.ortega.octavo@gmail.com
 <hr>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=robert-octavo&theme=radical&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=robert-octavo&theme=radical&fire=DD2727)](https://git.io/streak-stats)
 <a href="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=robert-octavo&layout=compact&theme=radical&langs_count=6">
   <img width="330" align="right" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=robert-octavo&layout=compact&theme=radical" />
 </a>
@@ -16,7 +16,8 @@
 <a href="https://twitter.com/robert_octavo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="robert_octavo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/robert-octavo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="robert-octavo" height="30" width="40" /></a>
 <a href="https://instagram.com/robert_octavo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="robert_octavo" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/robert_octavo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="robert_octavo" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/robert_octavo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerra
+  nk.svg" alt="robert_octavo" height="30" width="40" /></a>
 </p>
 <hr> 
 <h3 align="left">Languages and Tools:</h3>
