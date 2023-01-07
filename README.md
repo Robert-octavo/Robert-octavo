@@ -6,11 +6,6 @@
 - 📫 How to reach me at at robert.ortega.octavo@gmail.com
 <hr>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=robert-octavo&theme=radical&fire=DD2727)](https://git.io/streak-stats)
-<a href="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=robert-octavo&layout=compact&theme=radical&langs_count=6">
-  <img width="330" align="right" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=robert-octavo&layout=compact&theme=radical" />
-</a>
-<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/robert_octavo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="robert_octavo" height="30" width="40" /></a>
