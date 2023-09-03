@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on webDevelopment projects
 - 📫 How to reach me at at robert.ortega.octavo@gmail.com
+  
 <hr>
 
 <h3 align="left">Connect with me:</h3>
