@@ -1,6 +1,6 @@
 
 - 👋 Hi, I’m Robert Ortega
-- 👀 I’m interested in webDevelopment and Data analyst
+- 👀 I’m interested in webDevelopment and Data analyst 
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on webDevelopment projects
 - 📫 How to reach me at at robert.ortega.octavo@gmail.com
