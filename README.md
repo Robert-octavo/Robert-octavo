@@ -15,6 +15,8 @@
 <a href="https://www.hackerrank.com/robert_octavo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="robert_octavo" height="30" width="40" /></a>
 </p>
 <hr>
+<div style="text-align: center">  <br />  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robert-octavo&hide=php&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></div>
+<hr>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robert-octavo&label=Profile%20views&color=0e75b6&style=flat" alt="robert-octavo" /> </p>
 <!---
